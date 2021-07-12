@@ -1,7 +1,7 @@
 
 # Hello Everyone! 👋
 ## Welcome to my Basic Python Projects Repository:
-### Here is a repository for Basic Python Projects!! Have Fun Pythoning 🐍🐍
+### Here is a repository for Python Projects!! Have Fun Pythoning 🐍🐍
 - <a href="">MADLIB GAME</a> 
 - <a href="">RANDOM NUMBER</a> 
 - <a href="">ROCK PAPER SCISSOR</a>  
