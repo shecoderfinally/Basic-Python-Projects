@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor-Game
-Enjoy playing your all time favourite game and cherish memories of your childhood!Lets go Rock Paper Sci...�
+Enjoy playing your all time favourite game and cherish memories of your childhood!Lets go Rock Paper Sci...
 🗿
 📝
 ✂️
