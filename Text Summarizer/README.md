@@ -4,7 +4,7 @@
 # 💡 All you gotta do:
 1) Download this folder.  
 2)  Paste the blog you want summarized in the variable:  
-artilce """  <Place your Blog here>  """
+artilce """  _Place your Blog here_  """
 3) Run the entire file
 
 ## Steps to Run this Project:
