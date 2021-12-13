@@ -1,5 +1,5 @@
 # Text Summarizer
-### Tired of whizzing through blogs to extract your content??? Well, so am I..so lets get Python to do that for us 😎😎
+### Tired of whizzing through blogs to extract your content??? Well, so am I..so lets get Python to do that for us �
 
 # 💡 All you gotta do:
 1) Download this folder.  
