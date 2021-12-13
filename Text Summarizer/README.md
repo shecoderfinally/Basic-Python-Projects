@@ -4,7 +4,7 @@ Tired of whizzing through blogs to extract your content??? Well, so am I..so let
 # 💡 All you gotta do:
 1) Download this folder  
 2)Paste the blog you want summarized in the variable:  
-      artilce """  <<Place your Blog here>>  """
+            artilce """  <<Place your Blog here>>  """
   
 3) Run the entire file
 
